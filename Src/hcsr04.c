@@ -6,8 +6,8 @@
  *		www.msalamon.pl
  *		mateusz@msalamon.pl
  *
- *	BLOG
- *	GITHUB
+ *	https://msalamon.pl/tani-dalmierz-ultradzwiekowy-hc-sr04/
+ *	https://github.com/lamik/HCSR04_blocking_STM32
  */
 
 #include "main.h"
